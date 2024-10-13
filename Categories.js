@@ -18,7 +18,7 @@ const data = [
   {
     id: "C",
     image: require("./assets/resource.jpg"),
-    title: "Relay on God's resources",
+    title: "Rely on God's resources",
   },
   {
     id: "D",
